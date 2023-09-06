@@ -1,0 +1,15 @@
+C:\Users\cdkaw\source\repos\abobusTest\abobusTest\bin\Debug\net6.0\abobusTest.exe
+C:\Users\cdkaw\source\repos\abobusTest\abobusTest\bin\Debug\net6.0\abobusTest.deps.json
+C:\Users\cdkaw\source\repos\abobusTest\abobusTest\bin\Debug\net6.0\abobusTest.runtimeconfig.json
+C:\Users\cdkaw\source\repos\abobusTest\abobusTest\bin\Debug\net6.0\abobusTest.dll
+C:\Users\cdkaw\source\repos\abobusTest\abobusTest\bin\Debug\net6.0\abobusTest.pdb
+C:\Users\cdkaw\source\repos\abobusTest\abobusTest\obj\Debug\net6.0\abobusTest.csproj.AssemblyReference.cache
+C:\Users\cdkaw\source\repos\abobusTest\abobusTest\obj\Debug\net6.0\abobusTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdkaw\source\repos\abobusTest\abobusTest\obj\Debug\net6.0\abobusTest.AssemblyInfoInputs.cache
+C:\Users\cdkaw\source\repos\abobusTest\abobusTest\obj\Debug\net6.0\abobusTest.AssemblyInfo.cs
+C:\Users\cdkaw\source\repos\abobusTest\abobusTest\obj\Debug\net6.0\abobusTest.csproj.CoreCompileInputs.cache
+C:\Users\cdkaw\source\repos\abobusTest\abobusTest\obj\Debug\net6.0\abobusTest.dll
+C:\Users\cdkaw\source\repos\abobusTest\abobusTest\obj\Debug\net6.0\refint\abobusTest.dll
+C:\Users\cdkaw\source\repos\abobusTest\abobusTest\obj\Debug\net6.0\abobusTest.pdb
+C:\Users\cdkaw\source\repos\abobusTest\abobusTest\obj\Debug\net6.0\abobusTest.genruntimeconfig.cache
+C:\Users\cdkaw\source\repos\abobusTest\abobusTest\obj\Debug\net6.0\ref\abobusTest.dll
